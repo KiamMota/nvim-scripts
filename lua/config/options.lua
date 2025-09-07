@@ -1,1 +1,1 @@
-vim.api.nvim_set_option("clipboard","unnamed") 
+vim.opt.guicursor = "n-v-c:block"
