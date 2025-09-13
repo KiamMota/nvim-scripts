@@ -11,7 +11,7 @@ local corrections = {
   ["define"] = {"DEFINE", "deifnde", "deinfe", "dei0fne"},
   ["while"] = {"wilhe", "wihle", "whie"},
   ["switch"] = {"siwtch", "swithc", "esicjh", "sich", "swtich,", "stich"},
-  
+  ["virtual"] = {"virutal", "virutla", "virtula", "viutal"} 
 }
 
 for correct, wrongs in pairs(corrections) do
